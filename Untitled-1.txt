@@ -1,0 +1,19 @@
+Point de terminaison: 
+
+aat0qmyi0iw191.c09ev1rtvtjd.us-east-2.rds.amazonaws.com:3306  
+
+Classe d'instance: db.t2.micro
+Conservation: Créer un instantané
+Disponibilité: Faible (zone de disponibilité unique)
+Moteur: mysql
+Nom d'utilisateur: yvesiressef
+Stockage: 5
+
+
+
+username = doadmin
+password = wRyBXpaY2MTAzuoi hide
+host = db-mysql-iressef-do-user-7733308-0.b.db.ondigitalocean.com
+port = 25060
+database = defaultdb
+sslmode = REQUIRED
